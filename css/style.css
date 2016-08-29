@@ -1488,6 +1488,7 @@ nav.navbar {
 	-ms-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
+	color:#fff;
 }
 
 nav.navbar.dark-bg{
@@ -1509,6 +1510,7 @@ nav.navbar-slide {
 
 nav.navbar-slide.show-menu {
 	top: 0;
+	color: inherit;
 }
 
 nav .info-header{
@@ -1529,6 +1531,7 @@ nav.navbar-slide.navbar-transparent:not(.show-menu) {
 	background-color: transparent !important;
 	padding:15px 15px 0 15px;
 	height:75px;
+	color: inherit;
 }
 }
 
