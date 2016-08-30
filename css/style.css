@@ -40,7 +40,7 @@ header.dark-bg,
 }
 
 a {
-	text-decoration: none;
+	text-decoration: none !important;
 	outline: 0;
 	-webkit-transition: all 0.25s ease-out;
 	-moz-transition: all 0.25s ease-out;
