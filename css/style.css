@@ -37,10 +37,7 @@ header.dark-bg,
 	z-index: 1;
 }
 
-a,
-a:hover,
-a:focus {
-	color: inherit;
+a {
 	text-decoration: none;
 	outline: 0;
 	-webkit-transition: all 0.25s ease-out;
@@ -1676,6 +1673,7 @@ nav.navbar-slide.navbar-transparent:not(.show-menu) {
 }
 
 .navbar .nav li a {
+	color: inherit;
 	display: block;
 	font-size: 14px;
 	height: 50px;
