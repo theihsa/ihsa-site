@@ -1531,7 +1531,7 @@ nav.navbar-slide.navbar-transparent:not(.show-menu) {
 	background-color: transparent !important;
 	padding:15px 15px 0 15px;
 	height:75px;
-	color: inherit;
+	color: #fff;
 }
 }
 
