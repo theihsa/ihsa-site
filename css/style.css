@@ -572,15 +572,15 @@ label.error.valid,
 }
 
 .btn-primary {
-	background: #00c0ff;
-	border-color: #00c0ff;
+	background: #4CAF50;
+	border-color: #4CAF50;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-	background: #009acc;
-	border-color: #009acc;
+	background: #388e3c;
+	border-color: #388e3c;
 }
 
 .btn-primary-white {
