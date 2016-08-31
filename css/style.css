@@ -1724,6 +1724,13 @@ nav.navbar-slide.navbar-transparent:not(.show-menu) {
     background-color: rgba(255, 255, 255, 0.3);
 }
 
+.show-menu .login-panel .btn {
+    border-radius: 0;
+    border-color: #4CAF50;
+    background: #4CAF50;
+    transition: .59s;
+}
+
 .navbar-brand img {
 	display: inline-block;
 	vertical-align: middle;
