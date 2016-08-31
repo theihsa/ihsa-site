@@ -1710,11 +1710,18 @@ nav.navbar-slide.navbar-transparent:not(.show-menu) {
 }
 
 .navbar .login-panel .btn {
-	margin: 0;
-	border-radius: 0;
-	font-size: 14px;
-	padding: 0 20px;
-	line-height: 58px;
+    margin: 0;
+    border-radius: 7px;
+    border-color: #fff;
+    background-color: transparent;
+    font-size: 14px;
+    padding: 0 20px;
+    line-height: 58px;
+    transition: .59s;
+}
+
+.navbar .login-panel .btn:hover {
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .navbar-brand img {
@@ -1777,6 +1784,8 @@ nav.navbar .container {
  .navbar .soc-list {
 	float: none;
 	text-align: center;
+	color: #555;
+	border-radius: none;
 	padding: 15px 0;
 }
 
