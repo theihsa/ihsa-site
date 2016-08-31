@@ -6,8 +6,9 @@ $(document).ready(function() {
 //------------------------------------------------------------------------
 //						PRELOADER SCRIPT
 //------------------------------------------------------------------------
-    $('#preloader').delay(400).fadeOut('slow'); // will fade out the white DIV that covers the website.
-    $('#preloader .loading-data').fadeOut(); // will first fade out the loading animation
+    $('#preloader').delay(400).fadeOut('slow');
+    $('#preloader').fadeOut();
+    $('body').delay(400).css({'overflow':'visible'});
 
 
 //------------------------------------------------------------------------
