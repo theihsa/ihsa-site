@@ -1792,7 +1792,6 @@ nav.navbar .container {
 	float: none;
 	text-align: center;
 	color: #555;
-	border-radius: none;
 	padding: 15px 0;
 }
 
@@ -1818,6 +1817,11 @@ nav.navbar .container {
     nav .info-header .btn,
     nav .info-header span{
         display:none;
+    }
+    .navbar .login-panel .btn {
+    border-radius: 0;
+    border-color: transparent;
+    background-color: inherit;
     }
 }
 /*----------------------------------------------------------------------------------------
