@@ -1624,6 +1624,7 @@ nav .info-header .btn {
 
 .show-menu .login-panel .btn:hover {
     background-color: #388e3c;
+    border-color: #388e3c;
 }
 
 .navbar-brand img {
