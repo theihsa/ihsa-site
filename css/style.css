@@ -1608,7 +1608,7 @@ nav .info-header .btn {
     font-size: 14px;
     padding: 0 20px;
     line-height: 58px;
-    transition: .59s;
+    transition: 1s;
 }
 
 .navbar .login-panel .btn:hover {
@@ -1619,7 +1619,7 @@ nav .info-header .btn {
     border-radius: 0;
     border-color: #4CAF50;
     background: #4CAF50;
-    transition: .59s;
+    transition: 1s;
 }
 
 .show-menu .login-panel .btn:hover {
