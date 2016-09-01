@@ -1612,7 +1612,7 @@ nav .info-header .btn {
 }
 
 .navbar .login-panel .btn:hover {
-    background-color: rgba(255,255,255,0.3);
+    background-color: #388e3c;
 }
 
 .show-menu .login-panel .btn {
@@ -1620,6 +1620,10 @@ nav .info-header .btn {
     border-color: #4CAF50;
     background: #4CAF50;
     transition: .59s;
+}
+
+.show-menu .login-panel .btn:hover {
+    background-color: rgba(255,255,255,0.3);
 }
 
 .navbar-brand img {
@@ -1711,6 +1715,9 @@ nav .info-header .btn {
         border-radius: 0;
         border-color: #4CAF50;
         background-color: #4CAF50;
+    }
+    .navbar .login-panel .btn:hover {
+        background-color: #388e3c;
     }
 }
 
