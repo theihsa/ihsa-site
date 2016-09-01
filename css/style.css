@@ -1612,7 +1612,7 @@ nav .info-header .btn {
 }
 
 .navbar .login-panel .btn:hover {
-    background-color: #388e3c;
+    background-color: rgba(255,255,255,0.3);
 }
 
 .show-menu .login-panel .btn {
@@ -1623,7 +1623,7 @@ nav .info-header .btn {
 }
 
 .show-menu .login-panel .btn:hover {
-    background-color: rgba(255,255,255,0.3);
+    background-color: #388e3c;
 }
 
 .navbar-brand img {
