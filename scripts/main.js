@@ -9,11 +9,6 @@ $(document).ready(function() {
         'overflow': 'visible'
     });
     //------------------------------------------------------------------------
-    //						NORMALIZE CAROUSEL HEIGHTS
-    //------------------------------------------------------------------------
-    $('#carousel-full-header .item').carouselHeights();
-    $('#carousel-testimonials .item').carouselHeights();
-    //------------------------------------------------------------------------
     //						NAVBAR SLIDE SCRIPT
     //------------------------------------------------------------------------ 		
     $(window).scroll(function() {
